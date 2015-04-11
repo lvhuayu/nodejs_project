@@ -1,4 +1,3 @@
-
 function connect_mysql() {
 	// make connection with Mysql
 	var mysql = require('mysql');
